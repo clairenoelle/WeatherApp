@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Untitled</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="day" transform="translate(1.000000, 1.000000)" stroke="#FFA500" stroke-width="2">
+            <g id="Group" stroke-linecap="round">
+                <path d="M11,20 L11,22" id="Shape"></path>
+                <g transform="translate(4.282486, 18.424621) rotate(45.000000) translate(-4.282486, -18.424621) translate(3.782486, 17.424621)" id="Shape">
+                    <path d="M0,0 L0,2"></path>
+                </g>
+                <g transform="translate(1.000000, 11.500000) rotate(90.000000) translate(-1.000000, -11.500000) translate(0.500000, 10.500000)" id="Shape">
+                    <path d="M0,0 L0,2"></path>
+                </g>
+                <g transform="translate(3.575379, 4.282486) rotate(135.000000) translate(-3.575379, -4.282486) translate(3.075379, 3.282486)" id="Shape">
+                    <path d="M0,0 L0,2"></path>
+                </g>
+                <g transform="translate(10.500000, 1.000000) rotate(180.000000) translate(-10.500000, -1.000000) translate(10.000000, 0.000000)" id="Shape">
+                    <path d="M0,0 L0,2"></path>
+                </g>
+                <g transform="translate(17.717514, 3.575379) rotate(-135.000000) translate(-17.717514, -3.575379) translate(17.217514, 2.575379)" id="Shape">
+                    <path d="M0,0 L0,2"></path>
+                </g>
+                <g transform="translate(21.000000, 10.500000) rotate(-90.000000) translate(-21.000000, -10.500000) translate(20.500000, 9.500000)" id="Shape">
+                    <path d="M0,0 L0,2"></path>
+                </g>
+                <g transform="translate(18.424621, 17.717514) rotate(-45.000000) translate(-18.424621, -17.717514) translate(17.924621, 16.717514)" id="Shape">
+                    <path d="M0,0 L0,2"></path>
+                </g>
+            </g>
+            <circle id="Oval" fill="#FFA500" fill-rule="nonzero" cx="11" cy="11" r="5"></circle>
+        </g>
+    </g>
+</svg>
